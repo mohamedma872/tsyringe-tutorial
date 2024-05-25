@@ -1,6 +1,3 @@
-Sure! Here’s a sample README file you can use for your GitHub repository:
-
----
 
 # TSyringe Dependency Injection Tutorial
 
